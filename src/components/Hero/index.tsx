@@ -16,8 +16,9 @@ const Hero = () => {
 
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                we believe that quality software shouldn't come at a premium. Our expert team is dedicated to delivering reliable, high-performance solutions tailored to your business needs—without the hefty price tag. Whether you're launching a new product or optimizing an existing one, we provide the tools and support to help you succeed, all within your budget.
-                </p>
+    we believe that quality software shouldn&apos;t come at a premium. Our expert team is dedicated to delivering reliable, high-performance solutions tailored to your business needs—without the hefty price tag. Whether you&apos;re launching a new product or optimizing an existing one, we provide the tools and support to help you succeed, all within your budget.
+</p>
+
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <p
                    
