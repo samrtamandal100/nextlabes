@@ -11,7 +11,7 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 
-
+// favicon.png
 
 export default function Home() {
   return (

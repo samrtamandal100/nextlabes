@@ -27,7 +27,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                Delivering Tomorrow&apos;s Solutions Today.s
+                Delivering Tomorrow&apos;s Solutions Today.
                 </p>
 
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
